@@ -1,0 +1,22 @@
+2024-10-18 11:12:39.940 [info] Extension host with pid 2537 started
+2024-10-18 11:12:39.962 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/716df7671d5236da5a187e072ede3ddc/vscode.lock': Lock acquired.
+2024-10-18 11:12:40.758 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-10-18 11:12:40.770 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-10-18 11:12:40.770 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-10-18 11:12:40.773 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-10-18 11:12:41.677 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-10-18 11:12:41.677 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-10-18 11:12:42.227 [info] Eager extensions activated
+2024-10-18 11:12:42.228 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-18 11:12:42.229 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-10-18 11:12:42.231 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-10-18 11:34:00.432 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2024-10-18 11:34:18.902 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2024-10-18 11:36:49.449 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-10-18 11:36:50.268 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-10-18 11:36:50.269 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-10-18 11:37:28.181 [info] ExtensionService#_doActivateExtension ms-vscode.live-server, startup: false, activationEvent: 'onCommand:livePreview.start.preview.atFile'
+2024-10-18 11:38:29.014 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-10-18 11:38:34.858 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-10-18 11:38:34.858 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-10-18 11:38:34.859 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'

@@ -1,0 +1,27 @@
+2024-10-30 01:49:07.877 [info] 
+
+
+
+
+2024-10-30 01:49:07.889 [info] Extension host agent started.
+2024-10-30 01:49:08.105 [info] [<unknown>][ce6bda49][ExtensionHostConnection] New connection established.
+2024-10-30 01:49:08.107 [info] [<unknown>][880f5467][ManagementConnection] New connection established.
+2024-10-30 01:49:08.258 [info] [<unknown>][ce6bda49][ExtensionHostConnection] <3897> Launched Extension Host Process.
+2024-10-30 01:54:07.890 [info] New EH opened, aborting shutdown
+2024-10-30 02:00:00.653 [info] [<unknown>][880f5467][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-30 02:00:00.679 [info] [<unknown>][ce6bda49][ExtensionHostConnection] <3897> Extension Host Process exited with code: 0, signal: null.
+2024-10-30 02:00:00.679 [info] Last EH closed, waiting before shutting down
+2024-10-30 02:00:06.251 [info] [<unknown>][79543b9a][ManagementConnection] New connection established.
+2024-10-30 02:00:06.252 [info] [<unknown>][700401cc][ExtensionHostConnection] New connection established.
+2024-10-30 02:00:06.257 [info] [<unknown>][700401cc][ExtensionHostConnection] <4378> Launched Extension Host Process.
+2024-10-30 02:05:00.680 [info] New EH opened, aborting shutdown
+2024-10-30 02:05:00.683 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///home/ec2-user/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/server-main.js:183:1060)
+    at process.emit (node:events:531:35)
+2024-10-30 02:39:03.384 [info] [<unknown>][700401cc][ExtensionHostConnection] <4378> [0mGET /favicon.ico [33m404[0m 1.498 ms - 150[0m
+
+2024-10-30 03:08:46.269 [info] [<unknown>][700401cc][ExtensionHostConnection] <4378> [0mGET /favicon.ico [33m404[0m 2.482 ms - 150[0m
+
+2024-10-30 03:37:12.685 [info] [<unknown>][79543b9a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-30 03:37:13.024 [info] [<unknown>][700401cc][ExtensionHostConnection] <4378> Extension Host Process exited with code: 0, signal: null.
+2024-10-30 03:37:13.024 [info] Last EH closed, waiting before shutting down

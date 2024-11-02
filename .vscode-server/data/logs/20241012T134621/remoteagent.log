@@ -1,0 +1,17 @@
+2024-10-12 13:46:21.507 [info] 
+
+
+
+
+2024-10-12 13:46:21.519 [info] Extension host agent started.
+2024-10-12 13:46:21.754 [info] [<unknown>][10616e86][ManagementConnection] New connection established.
+2024-10-12 13:46:21.755 [info] [<unknown>][aa3cf8b2][ExtensionHostConnection] New connection established.
+2024-10-12 13:46:21.892 [info] [<unknown>][aa3cf8b2][ExtensionHostConnection] <4023> Launched Extension Host Process.
+2024-10-12 13:46:43.571 [info] [<unknown>][10616e86][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-12 13:46:43.638 [info] [<unknown>][aa3cf8b2][ExtensionHostConnection] <4023> Extension Host Process exited with code: 0, signal: null.
+2024-10-12 13:46:43.639 [info] Cancelling previous shutdown timeout
+2024-10-12 13:46:43.639 [info] Last EH closed, waiting before shutting down
+2024-10-12 13:46:49.865 [info] [<unknown>][44e66572][ManagementConnection] New connection established.
+2024-10-12 13:46:49.871 [info] [<unknown>][a5129003][ExtensionHostConnection] New connection established.
+2024-10-12 13:46:49.873 [info] [<unknown>][a5129003][ExtensionHostConnection] <4127> Launched Extension Host Process.
+2024-10-12 13:50:03.033 [warning] No ptyHost heartbeat after 6 seconds

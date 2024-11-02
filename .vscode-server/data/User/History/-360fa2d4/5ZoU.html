@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/css/styleHome.css">
+    <script src="/static/js/appHome.js"></script>
+    <title>Contact Us</title>
+</head>
+<body>
+
+    <!-- Fondo ajustado a una sección controlada -->
+    <div class="background"></div>
+
+    <!-- Contenido -->
+    <div class="content">
+        <h1>Contact Us</h1>
+        <button onclick="sendComment()">Send Comment</button>
+        <button onclick="goBack()">Back</button>
+    </div>
+
+    <script>
+        function sendComment() {
+            window.location.href = "/register_page";
+        }
+
+        function goBack() {
+            alert("Returning to home");
+        }
+    </script>
+
+</body>
+</html>

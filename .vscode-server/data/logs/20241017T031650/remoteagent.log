@@ -1,0 +1,51 @@
+2024-10-17 03:16:51.328 [info] 
+
+
+
+
+2024-10-17 03:16:51.340 [info] Extension host agent started.
+2024-10-17 03:16:51.488 [info] Deleted uninstalled extension from disk ms-python.debugpy /home/ec2-user/.vscode-server/extensions/ms-python.debugpy-2024.10.0-linux-x64
+2024-10-17 03:16:51.566 [error] [<unknown>][132087a3][ManagementConnection] Unknown reconnection token (never seen).
+2024-10-17 03:17:03.577 [info] [<unknown>][a77aa402][ManagementConnection] New connection established.
+2024-10-17 03:17:03.579 [info] [<unknown>][5951b6c3][ExtensionHostConnection] New connection established.
+2024-10-17 03:17:03.582 [info] [<unknown>][5951b6c3][ExtensionHostConnection] <2487> Launched Extension Host Process.
+2024-10-17 03:18:02.810 [info] [<unknown>][a77aa402][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-17 03:18:02.856 [info] [<unknown>][5951b6c3][ExtensionHostConnection] <2487> Extension Host Process exited with code: 0, signal: null.
+2024-10-17 03:18:02.857 [info] Cancelling previous shutdown timeout
+2024-10-17 03:18:02.857 [info] Last EH closed, waiting before shutting down
+2024-10-17 03:18:19.372 [info] [<unknown>][432c8c3b][ManagementConnection] New connection established.
+2024-10-17 03:18:19.373 [info] [<unknown>][f31b366f][ExtensionHostConnection] New connection established.
+2024-10-17 03:18:19.376 [info] [<unknown>][f31b366f][ExtensionHostConnection] <2722> Launched Extension Host Process.
+2024-10-17 03:19:22.245 [info] [<unknown>][432c8c3b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-17 03:19:22.264 [info] [<unknown>][f31b366f][ExtensionHostConnection] <2722> Extension Host Process exited with code: 0, signal: null.
+2024-10-17 03:19:22.264 [info] Cancelling previous shutdown timeout
+2024-10-17 03:19:22.264 [info] Last EH closed, waiting before shutting down
+2024-10-17 03:19:28.885 [info] [<unknown>][d9a521e8][ExtensionHostConnection] New connection established.
+2024-10-17 03:19:28.886 [info] [<unknown>][95c3b863][ManagementConnection] New connection established.
+2024-10-17 03:19:28.889 [info] [<unknown>][d9a521e8][ExtensionHostConnection] <2876> Launched Extension Host Process.
+2024-10-17 03:24:22.265 [info] New EH opened, aborting shutdown
+2024-10-17 03:24:22.267 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/server/node/server.main.js:189:5899)
+    at process.emit (node:events:531:35)
+2024-10-17 03:28:26.235 [info] [<unknown>][d9a521e8][ExtensionHostConnection] <2876> [0mGET /templates/static/js/appRegistro.js [33m404[0m 1.891 ms - 173[0m
+
+2024-10-17 03:28:26.237 [info] [<unknown>][d9a521e8][ExtensionHostConnection] <2876> [0mGET /templates/%7B%7B%20url_for('static',%20filename='css/styleRegistro.css')%20%7D%7D [33m404[0m 3.777 ms - 236[0m
+
+2024-10-17 03:31:16.177 [info] [<unknown>][d9a521e8][ExtensionHostConnection] <2876> [0mGET /templates/static/js/appRegistro.js [33m404[0m 0.914 ms - 173[0m
+[0mGET /templates/%7B%7B%20url_for('static',%20filename='css/styleRegistro.css')%20%7D%7D [33m404[0m 0.962 ms - 236[0m
+
+2024-10-17 03:31:20.706 [info] [<unknown>][d9a521e8][ExtensionHostConnection] <2876> [0mGET /templates/%7B%7B%20url_for('static',%20filename='css/styleRegistro.css')%20%7D%7D [33m404[0m 0.661 ms - 236[0m
+
+2024-10-17 03:31:20.708 [info] [<unknown>][d9a521e8][ExtensionHostConnection] <2876> [0mGET /templates/static/js/appRegistro.js [33m404[0m 0.425 ms - 173[0m
+
+2024-10-17 03:31:31.824 [info] [<unknown>][d9a521e8][ExtensionHostConnection] <2876> [0mGET /templates/static/js/appHome.js [33m404[0m 0.905 ms - 169[0m
+
+2024-10-17 03:31:31.825 [info] [<unknown>][d9a521e8][ExtensionHostConnection] <2876> [0mGET /templates/static/css/styleHome.css [33m404[0m 1.865 ms - 173[0m
+
+2024-10-17 03:31:46.032 [info] [<unknown>][d9a521e8][ExtensionHostConnection] <2876> [0mGET /templates/static/css/styleHome.css [33m404[0m 0.668 ms - 173[0m
+
+2024-10-17 03:31:46.037 [info] [<unknown>][d9a521e8][ExtensionHostConnection] <2876> [0mGET /templates/static/js/appHome.js [33m404[0m 0.387 ms - 169[0m
+
+2024-10-17 03:32:50.855 [info] [<unknown>][95c3b863][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-17 03:32:50.961 [info] [<unknown>][d9a521e8][ExtensionHostConnection] <2876> Extension Host Process exited with code: 0, signal: null.
+2024-10-17 03:32:50.962 [info] Last EH closed, waiting before shutting down

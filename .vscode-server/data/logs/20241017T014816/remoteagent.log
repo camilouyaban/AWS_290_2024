@@ -1,0 +1,100 @@
+2024-10-17 01:48:16.590 [info] 
+
+
+
+
+2024-10-17 01:48:16.601 [info] Extension host agent started.
+2024-10-17 01:48:16.829 [info] [<unknown>][7c5a3b13][ManagementConnection] New connection established.
+2024-10-17 01:48:16.830 [info] [<unknown>][e55ca7be][ExtensionHostConnection] New connection established.
+2024-10-17 01:48:16.954 [info] [<unknown>][e55ca7be][ExtensionHostConnection] <2745> Launched Extension Host Process.
+2024-10-17 01:48:21.720 [info] Getting Manifest... ms-python.debugpy
+2024-10-17 01:48:21.768 [info] Installing extension: ms-python.debugpy {"productVersion":{"version":"1.94.2","date":"2024-10-09T16:08:44.566Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/ec2-user/.vscode-server/extensions/extensions.json","external":"file:///home/ec2-user/.vscode-server/extensions/extensions.json","path":"/home/ec2-user/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-10-17 01:48:22.259 [info] Getting Manifest... ms-python.python
+2024-10-17 01:48:23.040 [info] [<unknown>][7c5a3b13][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-17 01:48:23.071 [info] [<unknown>][e55ca7be][ExtensionHostConnection] <2745> Extension Host Process exited with code: 0, signal: null.
+2024-10-17 01:48:23.073 [info] Cancelling previous shutdown timeout
+2024-10-17 01:48:23.074 [info] Last EH closed, waiting before shutting down
+2024-10-17 01:48:23.909 [info] Extension signature verification result for ms-python.debugpy: Success. Executed: true. Duration: 1302ms.
+2024-10-17 01:48:24.607 [info] Extracted extension to file:///home/ec2-user/.vscode-server/extensions/ms-python.debugpy-2024.12.0-linux-x64: ms-python.debugpy
+2024-10-17 01:48:24.615 [info] Renamed to /home/ec2-user/.vscode-server/extensions/ms-python.debugpy-2024.12.0-linux-x64
+2024-10-17 01:48:24.626 [info] Marked extension as uninstalled ms-python.debugpy-2024.10.0-linux-x64
+2024-10-17 01:48:24.656 [info] Extension installed successfully: ms-python.debugpy file:///home/ec2-user/.vscode-server/extensions/extensions.json
+2024-10-17 01:48:29.082 [info] [<unknown>][71704acf][ExtensionHostConnection] New connection established.
+2024-10-17 01:48:29.083 [info] [<unknown>][132087a3][ManagementConnection] New connection established.
+2024-10-17 01:48:29.086 [info] [<unknown>][71704acf][ExtensionHostConnection] <2862> Launched Extension Host Process.
+2024-10-17 01:53:23.075 [info] New EH opened, aborting shutdown
+2024-10-17 01:53:23.080 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/server/node/server.main.js:189:5899)
+    at process.emit (node:events:531:35)
+2024-10-17 02:09:58.580 [info] Getting Manifest... ritwickdey.liveserver
+2024-10-17 02:09:58.603 [info] Installing extension: ritwickdey.liveserver {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/ec2-user/.vscode-server/extensions/extensions.json","external":"file:///home/ec2-user/.vscode-server/extensions/extensions.json","path":"/home/ec2-user/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.94.2","date":"2024-10-09T16:08:44.566Z"}}
+2024-10-17 02:10:00.043 [info] Extension signature verification result for ritwickdey.liveserver: Success. Executed: true. Duration: 1192ms.
+2024-10-17 02:10:04.665 [info] Extracted extension to file:///home/ec2-user/.vscode-server/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2024-10-17 02:10:04.709 [info] Renamed to /home/ec2-user/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2024-10-17 02:10:04.735 [info] Extension installed successfully: ritwickdey.liveserver file:///home/ec2-user/.vscode-server/extensions/extensions.json
+2024-10-17 02:11:06.676 [info] [<unknown>][71704acf][ExtensionHostConnection] <2862> [0mGET /templates/..static/css/StyleRegistro.css [33m404[0m 1.514 ms - 179[0m
+
+2024-10-17 02:11:06.987 [info] [<unknown>][71704acf][ExtensionHostConnection] <2862> [0mGET /favicon.ico [33m404[0m 0.702 ms - 150[0m
+
+2024-10-17 02:15:00.582 [info] [<unknown>][71704acf][ExtensionHostConnection] <2862> [0mGET /templates/static/css/styleHome.css [33m404[0m 0.606 ms - 173[0m
+
+2024-10-17 02:15:00.584 [info] [<unknown>][71704acf][ExtensionHostConnection] <2862> [0mGET /templates/static/js/appHome.js [33m404[0m 0.364 ms - 169[0m
+
+2024-10-17 02:19:07.787 [info] [<unknown>][71704acf][ExtensionHostConnection] <2862> [0mGET /templates/static/js/appRegistro.js [33m404[0m 1.306 ms - 173[0m
+
+2024-10-17 02:19:07.788 [info] [<unknown>][71704acf][ExtensionHostConnection] <2862> [0mGET /home/ec2-user/static/css/styleRegistro.css [33m404[0m 0.520 ms - 181[0m
+
+2024-10-17 02:19:09.756 [info] [<unknown>][71704acf][ExtensionHostConnection] <2862> [0mGET /templates/static/js/appRegistro.js [33m404[0m 0.454 ms - 173[0m
+[0mGET /home/ec2-user/static/css/styleRegistro.css [33m404[0m 0.421 ms - 181[0m
+
+2024-10-17 02:19:10.202 [info] [<unknown>][71704acf][ExtensionHostConnection] <2862> [0mGET /templates/static/js/appRegistro.js [33m404[0m 3.404 ms - 173[0m
+
+2024-10-17 02:19:10.203 [info] [<unknown>][71704acf][ExtensionHostConnection] <2862> [0mGET /home/ec2-user/static/css/styleRegistro.css [33m404[0m 1.662 ms - 181[0m
+
+2024-10-17 02:19:10.976 [info] [<unknown>][71704acf][ExtensionHostConnection] <2862> [0mGET /home/ec2-user/static/css/styleRegistro.css [33m404[0m 0.578 ms - 181[0m
+
+2024-10-17 02:19:10.979 [info] [<unknown>][71704acf][ExtensionHostConnection] <2862> [0mGET /templates/static/js/appRegistro.js [33m404[0m 0.306 ms - 173[0m
+
+2024-10-17 02:19:11.592 [info] [<unknown>][71704acf][ExtensionHostConnection] <2862> [0mGET /templates/static/js/appRegistro.js [33m404[0m 0.808 ms - 173[0m
+
+2024-10-17 02:19:11.593 [info] [<unknown>][71704acf][ExtensionHostConnection] <2862> [0mGET /home/ec2-user/static/css/styleRegistro.css [33m404[0m 1.724 ms - 181[0m
+
+2024-10-17 02:19:12.299 [info] [<unknown>][71704acf][ExtensionHostConnection] <2862> [0mGET /home/ec2-user/static/css/styleRegistro.css [33m404[0m 0.501 ms - 181[0m
+
+2024-10-17 02:19:12.301 [info] [<unknown>][71704acf][ExtensionHostConnection] <2862> [0mGET /templates/static/js/appRegistro.js [33m404[0m 0.462 ms - 173[0m
+
+2024-10-17 02:19:13.049 [info] [<unknown>][71704acf][ExtensionHostConnection] <2862> [0mGET /home/ec2-user/static/css/styleRegistro.css [33m404[0m 0.520 ms - 181[0m
+
+2024-10-17 02:19:13.052 [info] [<unknown>][71704acf][ExtensionHostConnection] <2862> [0mGET /templates/static/js/appRegistro.js [33m404[0m 0.301 ms - 173[0m
+
+2024-10-17 02:24:38.905 [info] [<unknown>][71704acf][ExtensionHostConnection] <2862> [0mGET /templates/static/js/appRegistro.js [33m404[0m 0.417 ms - 173[0m
+
+2024-10-17 02:24:39.064 [info] [<unknown>][71704acf][ExtensionHostConnection] <2862> [0mGET /templates/..satic/css/styleRegistro.css [33m404[0m 0.446 ms - 178[0m
+
+2024-10-17 02:28:40.047 [info] [<unknown>][71704acf][ExtensionHostConnection] <2862> [0mGET /templates/static/js/appRegistro.js [33m404[0m 0.703 ms - 173[0m
+
+2024-10-17 02:28:40.048 [info] [<unknown>][71704acf][ExtensionHostConnection] <2862> [0mGET /templates/..satic/css/styleRegistro.css [33m404[0m 1.536 ms - 178[0m
+
+2024-10-17 02:39:25.747 [info] [<unknown>][71704acf][ExtensionHostConnection] <2862> [0mGET /templates/%7B%7B%20url_for('static',%20filename='css/styleRegistro.css')%20%7D%7D [33m404[0m 0.535 ms - 236[0m
+
+2024-10-17 02:39:25.748 [info] [<unknown>][71704acf][ExtensionHostConnection] <2862> [0mGET /templates/%7B%7B%20url_for('static',%20filename='js/appRegistro.js')%20%7D%7D [33m404[0m 1.012 ms - 232[0m
+
+2024-10-17 02:39:26.030 [info] [<unknown>][71704acf][ExtensionHostConnection] <2862> [0mGET /templates/..satic/css/styleRegistro.css [33m404[0m 0.357 ms - 178[0m
+
+2024-10-17 02:39:26.113 [info] [<unknown>][71704acf][ExtensionHostConnection] <2862> [0mGET /templates/static/js/appRegistro.js [33m404[0m 0.376 ms - 173[0m
+
+2024-10-17 02:43:07.184 [info] [<unknown>][71704acf][ExtensionHostConnection] <2862> [0mGET /templates/%7B%7B%20url_for('static',%20filename='css/styleRegistro.css')%20%7D%7D [33m404[0m 3.253 ms - 236[0m
+
+2024-10-17 02:43:07.188 [info] [<unknown>][71704acf][ExtensionHostConnection] <2862> [0mGET /templates/%7B%7B%20url_for('static',%20filename='js/appRegistro.js')%20%7D%7D [33m404[0m 0.322 ms - 232[0m
+
+2024-10-17 02:43:11.659 [info] [<unknown>][71704acf][ExtensionHostConnection] <2862> [0mGET /templates/%7B%7B%20url_for('static',%20filename='css/styleRegistro.css')%20%7D%7D [33m404[0m 0.595 ms - 236[0m
+
+2024-10-17 02:43:11.661 [info] [<unknown>][71704acf][ExtensionHostConnection] <2862> [0mGET /templates/%7B%7B%20url_for('static',%20filename='js/appRegistro.js')%20%7D%7D [33m404[0m 1.180 ms - 232[0m
+
+2024-10-17 02:43:47.000 [info] [<unknown>][71704acf][ExtensionHostConnection] <2862> [0mGET /templates/..satic/css/styleRegistro.css [33m404[0m 0.412 ms - 178[0m
+
+2024-10-17 02:43:47.007 [info] [<unknown>][71704acf][ExtensionHostConnection] <2862> [0mGET /templates/static/js/appRegistro.js [33m404[0m 0.352 ms - 173[0m
+
+2024-10-17 02:43:48.627 [info] [<unknown>][71704acf][ExtensionHostConnection] <2862> [0mGET /templates/static/js/appRegistro.js [33m404[0m 0.451 ms - 173[0m
+[0mGET /templates/..satic/css/styleRegistro.css [33m404[0m 0.438 ms - 178[0m
+

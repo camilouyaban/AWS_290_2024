@@ -1,0 +1,21 @@
+2024-10-17 01:48:34.095 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-10-17 01:48:34.096 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-10-17 01:48:34.096 [info] Experiment 'pythonTestAdapter' is active
+2024-10-17 01:48:34.096 [warning] Dir "/home/ec2-user/.pixi/envs" is not watchable (directory does not exist)
+2024-10-17 01:48:34.096 [info] Default formatter is set to null for workspace /home/ec2-user
+2024-10-17 01:48:34.096 [info] Python interpreter path: /bin/python3
+2024-10-17 01:48:34.214 [info] > pyenv which python
+2024-10-17 01:48:34.214 [info] cwd: .
+2024-10-17 01:48:34.346 [info] > pixi --version
+2024-10-17 01:48:35.210 [info] Starting Pylance language server.
+2024-10-17 02:10:03.245 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/.vscode-server/extensions/.a6a17005-7424-4a1f-b374-bb545f477f17/node_modules/bcryptjs/.vscode/settings.json
+2024-10-17 02:22:17.293 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-10-17 02:22:19.040 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-10-17 02:22:20.697 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-10-17 02:22:33.758 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-10-17 02:22:43.176 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-10-17 02:50:36.306 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-10-17 02:50:39.098 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-10-17 02:50:42.497 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-10-17 02:50:43.874 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-10-17 03:03:43.288 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py

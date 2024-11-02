@@ -1,0 +1,30 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to /tmp/code-7d275702-a713-4bf8-99a0-2dd9a41a5e4e
+Extension host agent listening on /tmp/code-7d275702-a713-4bf8-99a0-2dd9a41a5e4e
+
+[00:36:39] 
+
+
+
+
+[00:36:40] Extension host agent started.
+[00:36:40] [<unknown>][2278ebd4][ManagementConnection] New connection established.
+[00:36:40] [<unknown>][1f373e8a][ExtensionHostConnection] New connection established.
+[00:36:40] [<unknown>][1f373e8a][ExtensionHostConnection] <2928> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[00:41:40] New EH opened, aborting shutdown
+[01:01:12] [<unknown>][2278ebd4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[01:01:12] [<unknown>][1f373e8a][ExtensionHostConnection] <2928> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[01:01:12] Last EH closed, waiting before shutting down
+[01:01:19] [<unknown>][d593722b][ExtensionHostConnection] New connection established.
+[01:01:19] [<unknown>][316a70c4][ManagementConnection] New connection established.
+[01:01:19] [<unknown>][d593722b][ExtensionHostConnection] <3845> Launched Extension Host Process.
+[01:02:14] [<unknown>][d593722b][ExtensionHostConnection] <3845> [0mGET /favicon.ico [33m404[0m 1.514 ms - 150[0m
+

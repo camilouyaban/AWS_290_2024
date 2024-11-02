@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: white; /* Fondo blanco por defecto */
+}
+
+.background {
+    width: 100%; /* Ancho completo */
+    height: 400px; /* Altura ajustada */
+    background-image: url("https://i.gifer.com/TiFv.gif"); /* URL de la imagen de fondo */
+    background-position: center;
+    background-size: contain; /* La imagen se ajusta sin cortar partes */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+}
+
+.content {
+    text-align: center;
+    padding: 20px;
+    background-color: white; /* Fondo del contenido */
+    position: relative;
+}

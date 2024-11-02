@@ -1,0 +1,131 @@
+2024-10-12 01:19:29.486 [info] 
+
+
+
+
+2024-10-12 01:19:29.498 [info] Extension host agent started.
+2024-10-12 01:19:29.723 [info] [<unknown>][d4c9bd5c][ManagementConnection] New connection established.
+2024-10-12 01:19:29.724 [info] [<unknown>][1a676d03][ExtensionHostConnection] New connection established.
+2024-10-12 01:19:29.855 [info] [<unknown>][1a676d03][ExtensionHostConnection] <2824> Launched Extension Host Process.
+2024-10-12 01:19:52.754 [info] [<unknown>][d4c9bd5c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-12 01:19:52.777 [info] [<unknown>][1a676d03][ExtensionHostConnection] <2824> Extension Host Process exited with code: 0, signal: null.
+2024-10-12 01:19:52.778 [info] Cancelling previous shutdown timeout
+2024-10-12 01:19:52.778 [info] Last EH closed, waiting before shutting down
+2024-10-12 01:19:58.614 [info] [<unknown>][2575c1e8][ExtensionHostConnection] New connection established.
+2024-10-12 01:19:58.615 [info] [<unknown>][dc28b8ad][ManagementConnection] New connection established.
+2024-10-12 01:19:58.619 [info] [<unknown>][2575c1e8][ExtensionHostConnection] <2928> Launched Extension Host Process.
+2024-10-12 01:20:13.363 [info] [<unknown>][dc28b8ad][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-12 01:20:13.389 [info] [<unknown>][2575c1e8][ExtensionHostConnection] <2928> Extension Host Process exited with code: 0, signal: null.
+2024-10-12 01:20:13.389 [info] Cancelling previous shutdown timeout
+2024-10-12 01:20:13.389 [info] Last EH closed, waiting before shutting down
+2024-10-12 01:20:18.570 [info] [<unknown>][c247b7d9][ManagementConnection] New connection established.
+2024-10-12 01:20:18.574 [info] [<unknown>][d320c800][ExtensionHostConnection] New connection established.
+2024-10-12 01:20:18.576 [info] [<unknown>][d320c800][ExtensionHostConnection] <3037> Launched Extension Host Process.
+2024-10-12 01:25:13.393 [info] New EH opened, aborting shutdown
+2024-10-12 01:25:13.397 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/server/node/server.main.js:189:5899)
+    at process.emit (node:events:531:35)
+2024-10-12 02:10:53.072 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 03:03:51.888 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 03:24:16.306 [error] CodeExpectedError: Could not find pty 4 on pty host
+    at M.U (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:11102)
+    at M.updateIcon (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:6462)
+    at s.<computed> (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:1843)
+    at Object.call (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:31:4127)
+    at Fc.s (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78860)
+    at Fc.q (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78383)
+    at os.value (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:77785)
+    at y.B (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:732)
+    at y.fire (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:950)
+    at process.v (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29096)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-10-12 03:31:48.596 [error] CodeExpectedError: Could not find pty 4 on pty host
+    at M.U (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:11102)
+    at M.updateTitle (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:6412)
+    at s.<computed> (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:1843)
+    at Object.call (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:31:4127)
+    at Fc.s (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78860)
+    at Fc.q (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78383)
+    at os.value (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:77785)
+    at y.B (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:732)
+    at y.fire (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:950)
+    at process.v (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29096)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-10-12 03:34:02.934 [error] CodeExpectedError: Could not find pty 4 on pty host
+    at M.U (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:11102)
+    at M.updateTitle (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:6412)
+    at s.<computed> (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:1843)
+    at Object.call (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:31:4127)
+    at Fc.s (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78860)
+    at Fc.q (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78383)
+    at os.value (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:77785)
+    at y.B (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:732)
+    at y.fire (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:950)
+    at process.v (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29096)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-10-12 03:35:00.574 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 03:54:26.347 [info] [<unknown>][c247b7d9][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-10-12 04:11:59.866 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 04:12:34.909 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 04:29:44.740 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 04:32:23.804 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 04:36:18.537 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 04:37:18.303 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 04:38:28.356 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 04:40:06.538 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 04:40:54.479 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 04:41:56.054 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 04:43:03.036 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 04:46:08.579 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 04:47:13.740 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 04:48:31.028 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 04:49:27.509 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 04:50:15.620 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 04:51:37.942 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 04:52:20.907 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 04:53:17.982 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 04:53:55.992 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 04:54:19.924 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 04:55:38.288 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 04:56:28.784 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 04:57:00.679 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 04:57:19.814 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 04:57:49.937 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 04:58:41.030 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 05:00:12.622 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 05:01:49.510 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 05:03:54.060 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 05:05:28.095 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 05:07:33.740 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 05:09:17.950 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 05:12:13.253 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 05:21:58.155 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 05:34:15.345 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 05:48:05.728 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 06:02:26.605 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 06:15:12.496 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 06:29:49.192 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 06:43:24.704 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 06:58:12.396 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 07:20:12.327 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 07:44:10.739 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 08:04:42.631 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 08:28:05.497 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 08:49:48.065 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 09:11:04.135 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 09:30:14.079 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 09:49:40.696 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 10:06:09.457 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 10:24:26.795 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 10:44:52.919 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 11:04:55.428 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 11:30:22.167 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 11:53:19.850 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 12:15:53.167 [warning] No ptyHost heartbeat after 6 seconds
+2024-10-12 12:35:54.876 [warning] No ptyHost heartbeat after 6 seconds

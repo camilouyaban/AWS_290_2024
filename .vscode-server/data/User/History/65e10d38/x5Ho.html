@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/css/styleRegistro.css">
+    <script src="/static/js/appRegistro.js"></script>
+    <title>Registro</title>
+</head>
+<body>  
+    <h1>Registrese</h1>
+    <form action="/Registo_usuario" method="post">
+        <label>Id  </label><input type="number" name = "Id"><br><br>
+        <label>Nombre </label><input type="text" name = "Nombre"><br><br>
+        <label>Apellido </label><input type="text" name = "Apellido"><br><br>
+        <label>Fecha de nacimiento </label><input type="date" name = "Fecha de nacimiento"><br><br>
+        <label>Número telefónico</label><input type="tel" name = "Numero telefónico"><br><br>
+        <label>Comentario</label><textarea name = "Comentario"></textarea><br><br>
+        <button>Enviar</button>
+        <button onclick="goBack()">Cancel</button>
+    </form>    
+</body>
+</html>

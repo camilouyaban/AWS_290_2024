@@ -1,0 +1,30 @@
+2024-11-02 13:30:55.029 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-11-02 13:30:55.029 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-11-02 13:30:55.029 [info] Experiment 'pythonTestAdapter' is active
+2024-11-02 13:30:55.029 [warning] Dir "/home/ec2-user/.pixi/envs" is not watchable (directory does not exist)
+2024-11-02 13:30:55.029 [info] Python interpreter path: /bin/python3
+2024-11-02 13:30:55.134 [info] > pyenv which python
+2024-11-02 13:30:55.134 [info] cwd: .
+2024-11-02 13:30:56.543 [info] Starting Pylance language server.
+2024-11-02 13:54:44.642 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/database/db.py
+2024-11-02 13:59:34.122 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-11-02 13:59:40.230 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-11-02 13:59:42.687 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-11-02 13:59:45.960 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-11-02 13:59:47.912 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-11-02 13:59:51.640 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-11-02 14:03:07.885 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-11-02 14:03:18.854 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-11-02 14:03:22.447 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-11-02 14:03:24.056 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-11-02 14:03:26.845 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-11-02 14:03:59.157 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-11-02 14:04:00.918 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-11-02 14:04:05.787 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-11-02 14:10:46.103 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-11-02 14:11:25.735 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-11-02 14:11:33.498 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-11-02 14:11:38.169 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-11-02 14:11:40.745 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-11-02 14:11:45.215 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py
+2024-11-02 14:12:59.304 [info] Discover tests for workspace name: ec2-user - uri: /home/ec2-user/server.py

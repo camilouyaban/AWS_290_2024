@@ -1,0 +1,50 @@
+body {
+    height: 100vh; /* Cubre toda la altura de la pantalla */
+    background-image: url("https://img.freepik.com/fotos-premium/mujer-escribiendo-computadora-portatil-planta-verde-fondo_826801-1003.jpg");
+    background-size: 75% 90vh; /* La imagen ocupará el 100% del ancho y solo el 50% de la altura */
+    background-position: center top; /* Centra la imagen en la parte superior */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; /* Coloca el contenido en la parte superior */
+    align-items: center;
+}
+
+h1 {
+    font-size: 38px;
+    margin-bottom: 20px;
+    color: #ffffff;
+}
+
+.container {
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); /* Efecto de sombra para dar un aspecto 3D */
+    padding: 40px;
+    max-width: 600px;
+    margin: -50px auto 0; /* Hace que el contenedor sobresalga desde la mitad de la pantalla hacia abajo */
+    position: relative;
+    top: 50%; /* Ajusta el contenedor a la mitad de la pantalla */
+    transform: translateY(-30%); /* Ajuste fino para centrar mejor el contenedor y compensar la reducción de la imagen */
+    z-index: 10; /* Asegura que el contenedor esté por encima de la imagen */
+}
+
+button {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}

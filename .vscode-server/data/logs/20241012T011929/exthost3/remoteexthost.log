@@ -1,0 +1,22 @@
+2024-10-12 01:20:20.150 [info] Extension host with pid 3037 started
+2024-10-12 01:20:20.150 [error] Error: EEXIST: file already exists, open '/home/ec2-user/.vscode-server/data/User/workspaceStorage/716df7671d5236da5a187e072ede3ddc/vscode.lock'
+2024-10-12 01:20:20.158 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/716df7671d5236da5a187e072ede3ddc/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-10-12 01:20:20.178 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/716df7671d5236da5a187e072ede3ddc/vscode.lock': The pid 2851 appears to be gone.
+2024-10-12 01:20:20.178 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/716df7671d5236da5a187e072ede3ddc/vscode.lock': Deleting a stale lock.
+2024-10-12 01:20:20.182 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/716df7671d5236da5a187e072ede3ddc/vscode.lock': Lock acquired.
+2024-10-12 01:20:21.006 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-10-12 01:20:21.007 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-10-12 01:20:21.010 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-10-12 01:20:21.013 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-10-12 01:20:22.343 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-10-12 01:20:22.344 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-10-12 01:20:22.782 [info] Eager extensions activated
+2024-10-12 01:20:22.782 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-12 01:20:22.782 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-10-12 01:20:22.842 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-10-12 01:20:22.842 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-10-12 02:09:32.105 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-10-12 02:09:42.838 [info] ExtensionService#_doActivateExtension ms-vscode.live-server, startup: false, activationEvent: 'onCommand:livePreview.start.preview.atFile'
+2024-10-12 02:10:08.589 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2024-10-12 02:58:41.780 [error] Error: connect ECONNRESET 20.44.10.123:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)

@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(243, 236, 236);
+}
+
+#background-container {
+    height: 50vh; /* 50% de la altura de la pantalla */
+    background-image: url("/static/img/fondo_home.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.content {
+    text-align: center;
+    padding: 20px;
+}

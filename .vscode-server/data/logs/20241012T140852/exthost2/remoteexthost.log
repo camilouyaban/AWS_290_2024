@@ -1,0 +1,18 @@
+2024-10-12 14:09:11.338 [info] Extension host with pid 2534 started
+2024-10-12 14:09:11.338 [error] Error: EEXIST: file already exists, open '/home/ec2-user/.vscode-server/data/User/workspaceStorage/716df7671d5236da5a187e072ede3ddc/vscode.lock'
+2024-10-12 14:09:11.368 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/716df7671d5236da5a187e072ede3ddc/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-10-12 14:09:11.380 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/716df7671d5236da5a187e072ede3ddc/vscode.lock': The pid 4127 appears to be gone.
+2024-10-12 14:09:11.380 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/716df7671d5236da5a187e072ede3ddc/vscode.lock': Deleting a stale lock.
+2024-10-12 14:09:11.385 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/716df7671d5236da5a187e072ede3ddc/vscode.lock': Lock acquired.
+2024-10-12 14:09:11.940 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-10-12 14:09:11.943 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-10-12 14:09:11.943 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-10-12 14:09:11.943 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-10-12 14:09:12.601 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-10-12 14:09:12.601 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-10-12 14:09:13.040 [info] Eager extensions activated
+2024-10-12 14:09:13.040 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-12 14:09:13.040 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-10-12 14:10:23.880 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-10-12 14:10:24.616 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-10-12 14:10:24.616 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'

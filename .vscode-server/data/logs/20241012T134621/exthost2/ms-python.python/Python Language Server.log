@@ -1,0 +1,22 @@
+2024-10-12 13:49:00.180 [info] [Info  - 1:49:00 PM] (4411) Server root directory: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-10-12 13:49:00.181 [info] [Info  - 1:49:00 PM] (4411) Pylance language server 2024.10.1 (pyright version 1.1.382, commit e46efc6b) starting
+2024-10-12 13:49:00.182 [info] [Info  - 1:49:00 PM] (4411) Starting service instance "ec2-user"
+2024-10-12 13:49:00.254 [info] [Info  - 1:49:00 PM] (4411) Setting environmentName for service "ec2-user": "3.9.16 (global)"
+2024-10-12 13:49:00.254 [info] [Info  - 1:49:00 PM] (4411) Setting pythonPath for service "ec2-user": "/bin/python3"
+2024-10-12 13:49:00.254 [info] [Info  - 1:49:00 PM] (4411) No include entries specified; assuming /home/ec2-user
+2024-10-12 13:49:00.254 [info] [Info  - 1:49:00 PM] (4411) Auto-excluding **/node_modules
+2024-10-12 13:49:00.254 [info] [Info  - 1:49:00 PM] (4411) Auto-excluding **/__pycache__
+2024-10-12 13:49:00.254 [info] [Info  - 1:49:00 PM] (4411) Auto-excluding **/.*
+2024-10-12 13:49:00.280 [info] (Client) Pylance async client (2024.10.1) started with python extension (2024.16.1)
+2024-10-12 13:49:00.306 [info] [Info  - 1:49:00 PM] (4411) Assuming Python version 3.9.16.final.0
+2024-10-12 13:49:00.608 [info] [Info  - 1:49:00 PM] (4411) Found 1 source file
+2024-10-12 13:49:02.190 [info] [Info  - 1:49:02 PM] (4411) Background analysis(1) root directory: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-10-12 13:49:02.198 [info] [Info  - 1:49:02 PM] (4411) Background analysis(1) started
+2024-10-12 13:49:02.444 [info] [Info  - 1:49:02 PM] (4411) Indexer background runner(2) root directory: file:///home/ec2-user/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist (index)
+2024-10-12 13:49:02.445 [info] [Info  - 1:49:02 PM] (4411) Indexing(2) started
+2024-10-12 13:49:04.902 [info] [Info  - 1:49:04 PM] (4411) [IDX(2)] Long operation: scan packages file:///home/ec2-user (2053ms)
+2024-10-12 13:49:04.903 [info] [Info  - 1:49:04 PM] (4411) scanned(2) 86 files over 1 exec env
+2024-10-12 13:49:05.860 [info] [Info  - 1:49:05 PM] (4411) [BG(1)] Long operation: checking: file:///home/ec2-user/server.py (2187ms)
+2024-10-12 13:49:05.860 [info] [Info  - 1:49:05 PM] (4411) [BG(1)] Long operation: analyzing: file:///home/ec2-user/server.py (2204ms)
+2024-10-12 13:49:05.975 [info] [Info  - 1:49:05 PM] (4411) indexed(2) 86 files over 1 exec env
+2024-10-12 13:49:06.074 [info] [Info  - 1:49:06 PM] (4411) Indexing finished(2).

@@ -1,0 +1,10 @@
+2024-10-12 01:20:23.334 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-10-12 01:20:23.334 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-10-12 01:20:23.334 [info] Experiment 'pythonTestAdapter' is active
+2024-10-12 01:20:23.334 [warning] Dir "/home/ec2-user/.pixi/envs" is not watchable (directory does not exist)
+2024-10-12 01:20:23.334 [info] Default formatter is set to null for workspace /home/ec2-user
+2024-10-12 01:20:23.334 [info] Python interpreter path: /bin/python3
+2024-10-12 01:20:23.491 [info] > pyenv which python
+2024-10-12 01:20:23.491 [info] cwd: .
+2024-10-12 01:20:23.675 [info] > pixi --version
+2024-10-12 01:20:34.461 [info] Starting Pylance language server.

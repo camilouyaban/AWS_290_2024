@@ -1,0 +1,102 @@
+2024-10-18 11:12:04.365 [info] 
+
+
+
+
+2024-10-18 11:12:04.379 [info] Extension host agent started.
+2024-10-18 11:12:04.603 [info] [<unknown>][3f90bdcd][ExtensionHostConnection] New connection established.
+2024-10-18 11:12:04.614 [info] [<unknown>][8e2628d4][ManagementConnection] New connection established.
+2024-10-18 11:12:04.760 [info] [<unknown>][3f90bdcd][ExtensionHostConnection] <2431> Launched Extension Host Process.
+2024-10-18 11:12:22.219 [info] [<unknown>][8e2628d4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-18 11:12:22.242 [info] [<unknown>][3f90bdcd][ExtensionHostConnection] <2431> Extension Host Process exited with code: 0, signal: null.
+2024-10-18 11:12:22.242 [info] Cancelling previous shutdown timeout
+2024-10-18 11:12:22.242 [info] Last EH closed, waiting before shutting down
+2024-10-18 11:12:37.808 [info] [<unknown>][7b71257a][ExtensionHostConnection] New connection established.
+2024-10-18 11:12:37.811 [info] [<unknown>][7b71257a][ExtensionHostConnection] <2537> Launched Extension Host Process.
+2024-10-18 11:12:37.872 [info] [<unknown>][f98bdeae][ManagementConnection] New connection established.
+2024-10-18 11:16:24.613 [info] [<unknown>][7b71257a][ExtensionHostConnection] <2537> [0mGET /favicon.ico [33m404[0m 1.577 ms - 150[0m
+
+2024-10-18 11:16:24.618 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/server/node/server.main.js:189:5899)
+    at process.emit (node:events:531:35)
+2024-10-18 11:17:01.767 [info] [<unknown>][7b71257a][ExtensionHostConnection] <2537> [0mGET /register_page [33m404[0m 0.604 ms - 152[0m
+
+2024-10-18 11:17:02.406 [info] [<unknown>][7b71257a][ExtensionHostConnection] <2537> [0mGET /register_page [33m404[0m 0.500 ms - 152[0m
+
+2024-10-18 11:17:22.244 [info] New EH opened, aborting shutdown
+2024-10-18 11:17:50.516 [info] [<unknown>][7b71257a][ExtensionHostConnection] <2537> [0mGET /register_page [33m404[0m 0.475 ms - 152[0m
+
+2024-10-18 11:17:50.792 [info] [<unknown>][7b71257a][ExtensionHostConnection] <2537> [0mGET /register_page [33m404[0m 2.562 ms - 152[0m
+
+2024-10-18 11:41:27.364 [info] [<unknown>][7b71257a][ExtensionHostConnection] <2537> [0mGET /home.html [33m404[0m 1.214 ms - 148[0m
+
+2024-10-18 11:41:27.628 [info] [<unknown>][7b71257a][ExtensionHostConnection] <2537> [0mGET /home.html [33m404[0m 0.460 ms - 148[0m
+
+2024-10-18 11:42:12.855 [info] [<unknown>][7b71257a][ExtensionHostConnection] <2537> [0mGET /Registro [33m404[0m 0.609 ms - 147[0m
+
+2024-10-18 11:42:13.035 [info] [<unknown>][7b71257a][ExtensionHostConnection] <2537> [0mGET /Registro [33m404[0m 0.424 ms - 147[0m
+
+2024-10-18 11:48:28.753 [info] [<unknown>][7b71257a][ExtensionHostConnection] <2537> [0mGET /home/ec2-user/templates/Registro.html [33m404[0m 0.484 ms - 176[0m
+
+2024-10-18 11:48:28.911 [info] [<unknown>][7b71257a][ExtensionHostConnection] <2537> [0mGET /home/ec2-user/templates/Registro.html [33m404[0m 0.411 ms - 176[0m
+
+2024-10-18 12:21:40.356 [info] [<unknown>][f98bdeae][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-10-18 13:03:31.818 [info] [<unknown>][f98bdeae][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-10-18 13:03:31.819 [info] [<unknown>][f98bdeae][ManagementConnection] The client has reconnected.
+2024-10-18 13:03:32.923 [error] CodeExpectedError: Could not find pty 7 on pty host
+    at M.U (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:11102)
+    at M.updateIcon (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:6462)
+    at s.<computed> (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:1843)
+    at Object.call (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:31:4127)
+    at Fc.s (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78860)
+    at Fc.q (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78383)
+    at os.value (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:77785)
+    at y.B (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:732)
+    at y.fire (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:950)
+    at process.v (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29096)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-10-18 13:03:32.923 [error] CodeExpectedError: Could not find pty 7 on pty host
+    at M.U (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:11102)
+    at M.updateTitle (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:6412)
+    at s.<computed> (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:1843)
+    at Object.call (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:31:4127)
+    at Fc.s (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78860)
+    at Fc.q (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78383)
+    at os.value (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:77785)
+    at y.B (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:732)
+    at y.fire (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:950)
+    at process.v (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29096)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-10-18 13:03:32.924 [error] CodeExpectedError: Could not find pty 7 on pty host
+    at M.U (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:11102)
+    at M.updateTitle (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:6412)
+    at s.<computed> (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:1843)
+    at Object.call (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:31:4127)
+    at Fc.s (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78860)
+    at Fc.q (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78383)
+    at os.value (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:77785)
+    at y.B (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:732)
+    at y.fire (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:950)
+    at process.v (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29096)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-10-18 13:03:32.924 [error] CodeExpectedError: Could not find pty 7 on pty host
+    at M.U (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:11102)
+    at M.updateTitle (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:6412)
+    at s.<computed> (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:48:1843)
+    at Object.call (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:31:4127)
+    at Fc.s (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78860)
+    at Fc.q (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78383)
+    at os.value (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:77785)
+    at y.B (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:732)
+    at y.fire (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:29:950)
+    at process.v (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29096)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-10-18 13:03:36.317 [info] [<unknown>][7b71257a][ExtensionHostConnection] The client has reconnected.

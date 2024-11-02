@@ -1,0 +1,69 @@
+2024-10-17 23:29:40.812 [info] Extension host with pid 3557 started
+2024-10-17 23:29:40.830 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/716df7671d5236da5a187e072ede3ddc/vscode.lock': Lock acquired.
+2024-10-17 23:29:41.333 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-10-17 23:29:41.334 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-10-17 23:29:41.334 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-10-17 23:29:41.335 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-10-17 23:29:41.981 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-10-17 23:29:41.982 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-10-17 23:29:42.694 [info] Eager extensions activated
+2024-10-17 23:29:42.695 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-17 23:29:42.695 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-10-17 23:29:42.695 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-10-17 23:30:30.847 [info] ExtensionService#_doActivateExtension ms-vscode.live-server, startup: false, activationEvent: 'onCommand:livePreview.start.preview.atFile'
+2024-10-17 23:31:15.692 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2024-10-17 23:32:32.870 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2024-10-17 23:33:07.118 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-10-17 23:33:07.118 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-10-17 23:37:47.290 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-10-17 23:37:53.136 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-10-17 23:39:14.794 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-10-17 23:39:15.529 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-10-17 23:39:15.529 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-10-18 04:57:36.255 [info] Extension host terminating: received terminate message from renderer
+2024-10-18 04:57:36.256 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/716df7671d5236da5a187e072ede3ddc/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-10-18 04:57:36.414 [error] Canceled: Canceled
+	at new eA (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:31:151177)
+	at Zb.U (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:31:155789)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:31:153283)
+	at T0.g (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:114:32325)
+	at T0.executeCommand (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at r.registerCommand.description (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:114:31156)
+	at T0.h (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:114:32845)
+	at T0.g (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:114:31919)
+	at T0.executeCommand (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:114:31826)
+	at Object.executeCommand (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:156:37049)
+	at gh.value (/home/ec2-user/.vscode-server/extensions/ms-vscode.live-server-0.4.15/out/extension.js:1:76829)
+	at T.B (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at f.closeServer (/home/ec2-user/.vscode-server/extensions/ms-vscode.live-server-0.4.15/out/extension.js:1:86719)
+	at f.dispose (/home/ec2-user/.vscode-server/extensions/ms-vscode.live-server-0.4.15/out/extension.js:1:89016)
+	at /home/ec2-user/.vscode-server/extensions/ms-vscode.live-server-0.4.15/out/extension.js:1:71726
+	at Map.forEach (<anonymous>)
+	at b.closeAllServers (/home/ec2-user/.vscode-server/extensions/ms-vscode.live-server-0.4.15/out/extension.js:1:71711)
+	at b.dispose (/home/ec2-user/.vscode-server/extensions/ms-vscode.live-server-0.4.15/out/extension.js:1:71754)
+	at t.deactivate (/home/ec2-user/.vscode-server/extensions/ms-vscode.live-server-0.4.15/out/extension.js:1:64725)
+	at hB.eb (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:118:11727)
+	at file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:118:9877
+	at Array.map (<anonymous>)
+	at hB.$ (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:118:9865)
+	at hB.terminate (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:118:10108)
+	at M3.terminate (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at ps (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:174:15058)
+	at gh.value (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:174:13218)
+	at T.B (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at no.fire (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:31:9399)
+	at Im.A (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:31:12515)
+	at gh.value (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:31:10935)
+	at T.B (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:29:732)
+	at T.fire (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:29:950)
+	at m5.acceptChunk (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:31:7880)
+	at file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:31:7166
+	at Socket.t (file:///home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:31:15393)
+	at Socket.emit (node:events:519:28)
+	at addChunk (node:internal/streams/readable:559:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+	at Readable.push (node:internal/streams/readable:390:5)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2024-10-18 04:57:36.493 [info] Extension host with pid 3557 exiting with code 0
